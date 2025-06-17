@@ -1,7 +1,7 @@
 # lqn_checkin
 
 **lqn_checkin** is a simple and optimized FiveM script that allows players to check themselves in at a hospital and automatically get healed. It uses modern features from `ox_lib` and `ox_target` and is fully compatible with the latest version of ESX.
-- Showcase: https://vimeo.com/1093983987/01647b71ce?
+- Showcase: https://vimeo.com/1093983987/01647b71ce
 
 ## 📦 Features
 
