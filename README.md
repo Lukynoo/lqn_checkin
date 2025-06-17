@@ -4,8 +4,7 @@
 
 ## 📦 Features
 
-- Players can self check-in at hospitals
-- Automatic player healing
+- Players can self check-in at hospitals to heal themselves
 - Interaction via `ox_target`
 - Notifications and progressbar with `ox_lib`
 - Easy installation and configuration
